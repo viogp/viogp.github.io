@@ -17,13 +17,13 @@ baseurl: ""
 title: VGP's website
 
 # Short description of your site
-description: 
+description: Under construction
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "past"
+  #About Me: "past"
   Astro Research: "astroresearch"
   Links: "links"
 
