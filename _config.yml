@@ -17,7 +17,8 @@ baseurl: ""
 title: Violeta Gonzalez-Perez
 
 # Short description of your site
-description: about.md
+description: 
+#about.md
 
 # --- Navigation bar options --- #
 
