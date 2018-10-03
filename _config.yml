@@ -17,7 +17,7 @@ baseurl: ""
 title: "Violeta Gonzalez-Perez"
 
 # Short description of your site
-description: 
+description: "aboutme.md"
 
 # --- Navigation bar options --- #
 
@@ -52,7 +52,7 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
- navbar-img: "/img/foto.jpg"
+# navbar-img: "/img/foto.jpg"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/foto.jpg"
 
