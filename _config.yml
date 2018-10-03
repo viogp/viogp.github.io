@@ -156,9 +156,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "default"
     values:
-      layout: "post"
+      layout: "default"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
