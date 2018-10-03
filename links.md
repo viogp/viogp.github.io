@@ -11,7 +11,7 @@ use-site-title: true
 + [NASA ADS](http://adsabs.harvard.edu/abstract_service.html)  
 + [Astro Code](http://ascl.net/)  
 
-<details>
+</details>
 
 
 <details open>
@@ -25,7 +25,7 @@ use-site-title: true
 + [Passive evolution](http://www.astro.yale.edu/dokkum/evocalc/)  
 + [SPS and dust models](http://www.sedfitting.org/SED08/Models.html)  
 
-<details>
+</details>
 
 
 <details open>
@@ -36,4 +36,4 @@ use-site-title: true
 + [natbib](http://merkel.zoneo.net/Latex/natbib.php)  
 + [Units](http://physics.nist.gov/cuu/Units/checklist.html)  
 
-<details>
+</details>
