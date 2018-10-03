@@ -23,7 +23,7 @@ description: Under construction
 
 # List of links in the navigation bar
 navbar-links:
-  #About Me: "past"
+  About Me: "past"
   Astro Research: "astroresearch"
   Links: "links"
 
