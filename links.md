@@ -6,7 +6,7 @@ use-site-title: true
 
 **Finding papers and code**
 * [benty-field](http://benty-fields.com/)  
-* [NASA ADS](http://adsabs.harvard.edu/abstract_service.html)  
+* [NASA ADS](https://ui.adsabs.harvard.edu/classic-form)  
 * [Astro Code](http://ascl.net/)  
 
 **Calculators**
