@@ -3,7 +3,7 @@ layout: page
 ---
 
 *Contact*
-[Science and Technology](http://www.lancaster.ac.uk/sci-tech/), B92
-[Lancaster University](http://www.lancaster.ac.uk/)
-Barlrigg
-Lancaster LA1 4YB
+[Astrophysics Research Institute](http://www.astro.ljmu.ac.uk/), 
+[Liverpool John Moores University](https://www.ljmu.ac.uk/)
+146 Brownlow Hill
+Liverpool L3 5RF
