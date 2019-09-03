@@ -23,7 +23,6 @@ description: "Welcome to my site"
 
 # List of links in the navigation bar
 navbar-links:
-  # About Me: "past"
   Astro Research: "astroresearch"
   Links: "links"
 
@@ -60,8 +59,8 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author: "Astrophysics Research Institute, Liverpool John Moores University"
-  name: "146 Brownlow Hill, Liverpool L35RF"
+author: 
+  name: "Astrophysics Research Institute, Liverpool John Moores University, \n 146 Brownlow Hill, Liverpool L35RF"
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
