@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/vgp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://viogp.github.io
+  * I am vgp (https://keybase.io/vgp) on keybase.
+  * I have a public key ASCxoSt3GdJoMHhniUeURW-2ggQKnpUdxXbO0ViZQsUThgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207b82f945e1ad059a36049c03bf86b970d13f60a88546e019365f957930782f180a",
+      "host": "keybase.io",
+      "kid": "0120b1a12b7719d268307867894794456fb682040a9e951dc576ced1589942c513860a",
+      "uid": "070f4ee86c1ea01ab2ee39e3b3059619",
+      "username": "vgp"
+    },
+    "merkle_root": {
+      "ctime": 1568282912,
+      "hash": "693599afff414a4fb78e3540074b684d366a66b12a53704d23a10a9f837fbfa5ea5927e6ec249f07c68a94bbc7c44d498fa4ac57d84b4c6446a433d668dd67c1",
+      "hash_meta": "f20248a3f5bd766300a0a8f49e60ad3c65a308dcb45f015fb22efdd62f5815bb",
+      "seqno": 6942327
+    },
+    "service": {
+      "entropy": "BxMrHHGtvyPuu1eFQAEosKUP",
+      "hostname": "viogp.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568282923,
+  "expire_in": 504576000,
+  "prev": "f19927b679ef93ce119b60d4e138e261660afbff3e9f2058a27ae126cde34b91",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgsaErdxnSaDB4Z4lHlEVvtoIECp6VHcV2ztFYmULFE4YKp3BheWxvYWTESpcCEcQg8Zkntnnvk84Rm2DU4TjiYWYK+/8+nyBYonrhJs3jS5HEICXqWNlqFp+8fMi1R6VQr8ryhXdPUVWy/ODrzPDvOWbQAgHCo3NpZ8RAKtJZDA4hT+tXTi7nNNSHTGUXKl88ByCJgezz2tmkYYL8fUTLK9IfUwA8MyUWSBSkRPfZY7sedgeXUWpNch97DKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMEucBNlvau6fWvHiBO42V5BwHQ0QbcFb8yW8jGRrkLao3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vgp
+
+==================================================================
