@@ -10,8 +10,8 @@ Before the meeting I spent some time thinking about what do I want from the Auro
 
 Since my meeting with my Aurora mentor, I have also been busy preparing for the first Aurora day. There are 4 preparatory excesses and the one that made me think the most was: "Reflect on women who inspire you".  This list varies depending on what I am reading or working on, although some names have remained a long time. This is my list as of right now:
 
-![My inspiring women](../img/inspiring.png)
+![Inspiring women](../img/inspiring.png)
 
-Almost all the women I admire and find inspiring are (or were) white. I think this is mostly due to a lack of exposure to the work of non-white women, in fact, of women that are not cis-gender, white and with able bodies. If I look around I do not see many non-white women doing science. However, I also have my biases and it is possible that I have a tendency to look up to those (apparently) closer to myself.
+Almost all the women I find inspiring right now are (or were) white. I think this is mostly due to a lack of exposure to the work of non-white women, in fact, of women that are not cis-gender, white and with able bodies. If I look around I do not see many non-white women doing science. However, I also have my biases and it is possible that I have a tendency to look up to those (apparently) closer to myself.
 
 Awareness is the first step to change, so maybe I now need to remind myself to ask who I admire and if I can look beyond those 'around' me.
