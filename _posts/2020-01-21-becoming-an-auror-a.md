@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Becoming an Auror(a)
+tags: aurora
 ---
 
 ["Aurors are the Wizarding World's best defence against the practitioners of the Dark Arts." — Harry Potter](https://harrypotter.fandom.com/wiki/Auror)

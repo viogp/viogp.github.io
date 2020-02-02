@@ -25,6 +25,7 @@ description: "Welcome to my site"
 navbar-links:
   Astro Research: "astroresearch"
   Links: "links"
+  Posts: "posts"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
