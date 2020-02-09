@@ -400,8 +400,3 @@ a:hover {
 	color: #FFFFFF;
 }
 
-img[src*="#thumbnail"] {
-   width:150px;
-   height:100px;
-   align:left;
-}
