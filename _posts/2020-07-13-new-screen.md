@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New screen
-subtitle: "Setting up in linux a new screen"
+subtitle: "Setting up a new screen in linux"
 tags: [linux, hardware]
 ---
 
