@@ -2,8 +2,7 @@
 layout: post
 title: New screen
 subtitle: "Setting up in linux a new screen"
-tags: linux
-tags: hardware
+tags: [linux, hardware]
 ---
 
 Today I got a new screen so I can return to the department the one I took at the beginning of the lockdown. I got exactly the same: BenQ eye-care 27inches, as I've been happy with it for the past months.
