@@ -23,7 +23,8 @@ description: "Welcome to my site"
 
 # List of links in the navigation bar
 navbar-links:
-  Astro Research: "astroresearch"
+  Research: "astroresearch"
+  Project: "atcam"	
   Links: "links"
   Posts: "posts"
 
