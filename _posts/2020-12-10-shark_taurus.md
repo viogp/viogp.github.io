@@ -28,7 +28,7 @@ dpkg-query -s libgsl-dev
 dpkg-query -L libgsl-dev
 ```
 
-* The `libgsl-dev` package actually installed the required gsl libraries in `/usr/lib/x86_64-linux-gnu/libgsl.so`. So I had to compiled [shark](https://github.com/ICRAR/shark) with the following command:
+* The `libgsl-dev` package actually installed the required gsl libraries in `/usr/lib/x86_64-linux-gnu/libgsl.so`. So I had to compile [shark](https://github.com/ICRAR/shark) with the following command:
 ```
 cmake .. -DGSL_ROOT_DIR=/usr/lib/x86_64-linux-gnu/
 ```

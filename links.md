@@ -16,7 +16,7 @@ use-site-title: true
 * [Cosmic Variance](http://casa.colorado.edu/~trenti/CosmicVariance.html)  
 * [K-correction](http://kcor.sai.msu.ru/)  
 * [Passive evolution](http://www.astro.yale.edu/dokkum/evocalc/)  
-* [SPS and dust models](http://www.sedfitting.org/SED08/Models.html)  
+* [SPS and dust models](http://www.sedfitting.org/Models.html)  
 
 **Writing**
 * [LaTeX](http://en.wikibooks.org/wiki/LaTeX)  
