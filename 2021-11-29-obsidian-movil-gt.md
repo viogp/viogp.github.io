@@ -1,9 +1,3 @@
-[Obsidian official how to](https://help.obsidian.md/How+to/Add+aliases+to+note)
-
-
-
-[Resumen de markdown](https://www.markdownguide.org/cheat-sheet)
-
 ---
 layout: post
 title: Obsidian con Github en dispositivos móviles
