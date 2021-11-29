@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Obsidian con Github en dispositivos móviles
-tags: [notas, Obsidian, git]
+tags: [notas, git]
 ---
 
 Recientemente me he puesto a aprender sobre la gestión del conocimiento personal, con el curso de [Guía Carmona](https://unbuenplan.blog/author/guiacarmona/), [Nota a Nota](https://unbuenplan.blog/2021/11/02/por-que-instalarte-una-nueva-aplicacion-de-notas-no-va-a-solucionar-tus-problemas-con-la-gestion-del-conocimiento/). La idea básica es tener un sistema funcional para capturar ideas, ordenarlas, procesar la información y expresarla a tu manera.  
