@@ -6,7 +6,7 @@ tags: [notas, git]
 
 Recientemente me he puesto a aprender sobre la gestión del conocimiento personal, con el curso de [Guía Carmona](https://unbuenplan.blog/author/guiacarmona/), [Nota a Nota](https://unbuenplan.blog/2021/11/02/por-que-instalarte-una-nueva-aplicacion-de-notas-no-va-a-solucionar-tus-problemas-con-la-gestion-del-conocimiento/). La idea básica es tener un sistema funcional para capturar ideas, ordenarlas, procesar la información y expresarla a tu manera.  
 
-A raíz de este curso, he descubierto de la existencia de [org-mode](https://www.orgmode.org/index.html) y [org-roam](https://www.orgroam.com/manual.html) de [emacs](https://www.gnu.org/software/emacs/), pero he visto que, por el momento, es un tanto complicado utilizarlos con el móvil y el iPaf para capturar información. Así que he decidido probar [Obsidian](https://obsidian.md/) en mis dispositivos móviles para empezar a aplicar lo que voy aprendiendo sobre gestión de conocimiento.
+A raíz de este curso, he descubierto de la existencia de [org-mode](https://www.orgmode.org/index.html) y [org-roam](https://www.orgroam.com/manual.html) de [emacs](https://www.gnu.org/software/emacs/), pero he visto que, por el momento, es un tanto complicado utilizarlos con el móvil y el iPad para capturar información. Así que he decidido probar [Obsidian](https://obsidian.md/) en mis dispositivos móviles para empezar a aplicar lo que voy aprendiendo sobre gestión de conocimiento.
 
 [Obsidian](https://obsidian.md/) es un sistema de notas  local, con la posibilidad de enlazarlas. Así que la única dificultad para configurar esta aplicación es la sincronización de las notas entre dispositivos. Hay varias opciones, y yo he decidido utilizar un repositorio en  [GitHub](https://github.com/).
 
@@ -42,6 +42,6 @@ Y al terminar, actualiza tu repositorio en  [GitHub](https://github.com/):
 ---
 Páginas de las que he sacado información para desarrollar mi configuración:
 
-* [Obsidian en el iPad enlazado a GitHub a través de Working Copy] (https://ryan.himmelwright.net/post/obsidian-ios-setup/)
-* [Obsidian en Android via termux](https://www.greghilston.com/post/how-i-use-obsidian-mobile-with-git-on-android/)
+* [Obsidian en el iPad enlazado a GitHub a través de Working Copy](https://ryan.himmelwright.net/post/obsidian-ios-setup/).
+* [Obsidian en Android via termux](https://www.greghilston.com/post/how-i-use-obsidian-mobile-with-git-on-android/).
 
