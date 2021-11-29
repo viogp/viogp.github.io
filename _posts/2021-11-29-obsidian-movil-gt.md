@@ -22,7 +22,7 @@ En [GitHub](https://github.com/) he generado un repositorio nuevo, que vamos a l
 ## Obsidian en un móvil con Android
 1.  Instalar las applicaciones de [Obsidian](https://obsidian.md/) y [Termux](https://termux.com/).
 2.  Dentro de [Termux](https://termux.com/), [generar llaves SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent). Si quieres guardar tus llaves SSH con el nombre *misllaves*: `$ ssh-keygen -t rsa -b 4096 -f ~/.ssh/misllaves`.
-3. [Añadir la llave SSH pública](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) (por ejemplo, lo que hay dentro de *misllaves.pub* en el directorio `~/.ssh` del paso anterior) a tu perfil en  [GitHub](https://github.com/.
+3. [Añadir la llave SSH pública](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) (por ejemplo, lo que hay dentro de *misllaves.pub* en el directorio `~/.ssh` del paso anterior) a tu perfil en  [GitHub](https://github.com/).
 4.  En [Termux](https://termux.com/), genera un directorio de almacenamiento, `/storage/shared`, ejecutando el siguiente comando: `$ termux-setup-storage`. 
 5. En [Termux](https://termux.com/), vete al directorio de almacenamiento: `$ cd storage/shared`. 
 6. En el directorio de almacenamiento compartido que has creado en [Termux](https://termux.com/), clona tu repositorio: `$ git clone git@github.com:[nombre de tu usuario en GitHub]/mirepo.git`
