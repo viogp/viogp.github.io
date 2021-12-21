@@ -27,10 +27,10 @@ The team will use a range of theoretical approaches to answer the questions abov
 
 ## The team
 
-![image](img/santi.png){: style="float: left"}
+![santi](img/santi.png =100x20){: style="float: left"}
 Santiago Avila is a postdoctoral researcher working in the field of Large Scale-Structure (LSS) from both the computational and an observational point of view. His main interests are Baryonic Acoustic Oscillations (BAO), Primordial Non-Gaussianities (PNG), the impact on galaxy clustering of the connection between galaxies and dark matter and fast cosmological simulations. He is co-convener of the Dark Energy Survey LSS science working group, in charge of BAO analysis and galaxy clustering for combination with Weak Lensing. He is also an active member of Euclid, DESI and SKA, he was also member of eBOSS in the past. Currently, he is also working on creating and analysing a unique suite of simulations to understand the effect of PNG on galaxy clustering. Santiago is also very active in outreach and public communication.
 
 
-![image](img/Bernhard_Vos.png){: style="float: left"}
-Bernhard Vos Ginéz obtained his degree in Physics at the Universidad de La Laguna in 2019 and his Master in Theoretical physics in 2020 at the Universidad Autónoma de Madrid. During his Master he obtained a JAE Grant for 9 months supervised by Santiago Ávila, in which he investigated Large Scale Structure topics as Baryonic Acoustic Oscillations using gas. Currently he is working on topics related with computational cosmology, generating galaxy mocks adapted to eBOSS and DESI surveys using Halo Occupation Distribution models. He is part of the DESI collaboration.
+![bvg](img/Bernhard_Vos.png =100x20){: style="float: left"}
+Bernhard Vos Ginés obtained his degree in Physics at the Universidad de La Laguna in 2019 and his Master in Theoretical physics in 2020 at the Universidad Autónoma de Madrid. During his Master he obtained a JAE Grant for 9 months supervised by Santiago Ávila, in which he investigated Large Scale Structure topics as Baryonic Acoustic Oscillations using gas. Currently he is working on topics related with computational cosmology, generating galaxy mocks adapted to eBOSS and DESI surveys using Halo Occupation Distribution models. He is part of the DESI collaboration.
 
