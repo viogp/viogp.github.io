@@ -39,5 +39,13 @@ The publications related to this project can be read [here](https://ui.adsabs.ha
 
 ### Previous members
 
-| <img src="./img/santi.png" alt="santi" width="300"/>  | Santiago Avila is a postdoctoral researcher working in the field of Large Scale-Structure (LSS) from both the computational and an observational point of view. His main interests are Baryonic Acoustic Oscillations (BAO), Primordial Non-Gaussianities (PNG), the impact on galaxy clustering of the connection between galaxies and dark matter and fast cosmological simulations. He is co-convener of the Dark Energy Survey LSS science working group, in charge of BAO analysis and galaxy clustering for combination with Weak Lensing. He is also an active member of Euclid, DESI and SKA, he was also member of eBOSS in the past. Currently, he is also working on creating and analysing a unique suite of simulations to understand the effect of PNG on galaxy clustering. Santiago is also very active in outreach and public communication.|
-| <img src="./img/olivia.png" alt="olivia" width="300"/> |Olivia Vidal finished her Physics degree in 2022 at the Universidad Autónoma de Madrid. She developed, with a short contract, a big part of the public code [get_nebular_emission](https://github.com/galform/get_nebular_emission), This is a modular code to produce model spectral emission lines for a given input of stellar mass, metallicity and star formation rate.|
+<table>
+<tr>	
+	<th> <img src="./img/santi.png" alt="santi" width="300"/> </th>
+	<th> Santiago Avila is a postdoctoral researcher working in the field of Large Scale-Structure (LSS) from both the computational and an observational point of view. His main interests are Baryonic Acoustic Oscillations (BAO), Primordial Non-Gaussianities (PNG), the impact on galaxy clustering of the connection between galaxies and dark matter and fast cosmological simulations. He is co-convener of the Dark Energy Survey LSS science working group, in charge of BAO analysis and galaxy clustering for combination with Weak Lensing. He is also an active member of Euclid, DESI and SKA, he was also member of eBOSS in the past. Currently, he is also working on creating and analysing a unique suite of simulations to understand the effect of PNG on galaxy clustering. Santiago is also very active in outreach and public communication. </th>
+</tr>
+<tr>
+	<th> <img src="./img/olivia.png" alt="olivia" width="300"/>  </th>
+	<th> Olivia Vidal finished her Physics degree in 2022 at the Universidad Autónoma de Madrid. She developed, with a short contract, a big part of the public code [get_nebular_emission](https://github.com/galform/get_nebular_emission), This is a modular code to produce model spectral emission lines for a given input of stellar mass, metallicity and star formation rate. </th>
+</tr>
+</table>
