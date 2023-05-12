@@ -20,6 +20,8 @@ The team uses a range of theoretical approaches to answer the questions above. T
 The publications related to this project can be read [here](https://ui.adsabs.harvard.edu/search/q=docs(library%2FYgun0COhQQe8MdUjeP9mlw)&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
 
+You can listen to a talk with an overview of the progress done so far [here](https://www.youtube.com/watch?v=afiQe9KN9k8).
+
 ## General objectives
 
 1. Support cosmological surveys by: (i) providing new and improved parametrisations for halo occupation models, (ii) generating new model galaxy catalogues tailored for surveys and (iii) suggesting observables to discern between different cosmological models.
